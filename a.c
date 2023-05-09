@@ -1,4 +1,4 @@
 main()
 {
-    print(Ola Trifofo)
+    print("Ola Trifofo");
 }
