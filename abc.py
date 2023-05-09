@@ -1,2 +1,1 @@
-print("Trifofo")
-ola
+hhh
